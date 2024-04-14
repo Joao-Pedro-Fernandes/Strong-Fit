@@ -1,0 +1,78 @@
+﻿@model IEnumerable<Strong_Fit.Models.Aluno>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Strong Fit</h1>
+
+<p>
+    <a asp-action="ListPersonais">Lista de Personais</a><br />
+    <a asp-action="ListExercicios">Lista de Exercícios</a><br />
+    <a asp-action="ListTreinos">Lista de Treinos</a><br />
+    <a asp-action="CreatePersonal">Cadastrar Personal</a><br />
+    <a asp-action="CreateAluno">Cadastrar Aluno</a><br />
+    <a asp-action="CreateTreino">Cadastrar Treino</a><br />
+    <a asp-action="CreateExercicio">Cadastrar Exercicio</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data_Nascimento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Instagram)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Observacoes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Personal)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Data_Nascimento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Instagram)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telefone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Observacoes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Personal.Nome)
+            </td>
+            <td>
+                <a asp-action="ListTreinoAluno" asp-route-id="@item.AlunoId">Treino</a> |
+                <a asp-action="EditAluno" asp-route-id="@item.AlunoId">Editar</a> |
+                <a asp-action="DetailsAluno" asp-route-id="@item.AlunoId">Detalhes</a> |
+                <a asp-action="DeleteAluno" asp-route-id="@item.AlunoId">Excluir</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

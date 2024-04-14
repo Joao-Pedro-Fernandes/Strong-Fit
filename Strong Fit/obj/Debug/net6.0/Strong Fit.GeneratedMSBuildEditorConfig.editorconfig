@@ -1,0 +1,129 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Strong_Fit
+build_property.RootNamespace = Strong_Fit
+build_property.ProjectDir = C:\Users\João Pedro\Downloads\Strong Fit-20240414T125547Z-001\Strong Fit\Strong Fit\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\João Pedro\Downloads\Strong Fit-20240414T125547Z-001\Strong Fit\Strong Fit
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/CreateAluno.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcQ3JlYXRlQWx1bm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/CreateExercicio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcQ3JlYXRlRXhlcmNpY2lvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/CreatePersonal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcQ3JlYXRlUGVyc29uYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/CreateTreino.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcQ3JlYXRlVHJlaW5vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/DeleteAluno.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcRGVsZXRlQWx1bm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/DeleteExercicio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcRGVsZXRlRXhlcmNpY2lvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/DeletePersonal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcRGVsZXRlUGVyc29uYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/DeleteTreino.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcRGVsZXRlVHJlaW5vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/DetailsAluno.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcRGV0YWlsc0FsdW5vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/DetailsExercicio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcRGV0YWlsc0V4ZXJjaWNpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/DetailsPersonal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcRGV0YWlsc1BlcnNvbmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/DetailsTreino.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcRGV0YWlsc1RyZWluby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/EditAluno.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcRWRpdEFsdW5vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/EditExercicio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcRWRpdEV4ZXJjaWNpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/EditPersonal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcRWRpdFBlcnNvbmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/EditTreino.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcRWRpdFRyZWluby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/ListExercicios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcTGlzdEV4ZXJjaWNpb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/ListPersonais.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcTGlzdFBlcnNvbmFpcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/ListTreinoAluno.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcTGlzdFRyZWlub0FsdW5vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Academia/ListTreinos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWFcTGlzdFRyZWlub3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/João Pedro/Downloads/Strong Fit-20240414T125547Z-001/Strong Fit/Strong Fit/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-kd7x1t9189
